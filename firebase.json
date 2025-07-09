@@ -1,7 +1,7 @@
 {
   "hosting": {
     "target": "diario-github",
-    "public": ".",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
